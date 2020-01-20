@@ -1,0 +1,22 @@
+{
+  "name": "team-agent",
+  "version": "1.0.0",
+  "description": "Game Team Agent",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmyou/team-agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmyou/team-agent/issues"
+  },
+  "homepage": "https://github.com/gmyou/team-agent#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
